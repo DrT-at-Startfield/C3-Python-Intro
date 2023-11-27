@@ -63,7 +63,7 @@ class GuessNumber:
       
 # In python there are some internal variables of the form
 # __somename__ that have special meaning. Below we check to see
-# if the __name__ specail variable is equal to the string 
+# if the __name__ special variable is equal to the string 
 # '__main__', if it is the code below it will run. 
     
 if __name__ == '__main__':
